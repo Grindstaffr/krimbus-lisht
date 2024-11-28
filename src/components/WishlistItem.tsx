@@ -1,4 +1,3 @@
-
 import { WishlistItem as WishlistItemType } from '../types/types';
 import '../styles/WishlistItem.css';
 
@@ -9,10 +8,15 @@ interface Props {
 }
 
 export const WishlistItem = ({ item, onHover, onClick }: Props) => {
+  const tooltipData = {
+    name: item.name,
+    thoughts: item.thoughts
+  } as WishlistItemType;
+  
   return (
     <div 
       className="wishlist-item"
-      onMouseEnter={() => onHover(item)}
+      onMouseEnter={() => onHover(tooltipData)}
       onMouseLeave={() => onHover(null)}
       onClick={() => onClick(item)}
     >

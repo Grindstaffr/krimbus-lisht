@@ -13,6 +13,23 @@ export const Modal: React.FC<ModalProps> = ({ item, onClose }) => {
   // Helper to render any field with a title if it exists
   const renderSection = (title: string, content: any) => {
     if (!content) return null;
+
+    // Special handling for links
+    if (title.toLowerCase() === 'link') {
+      return (
+        <div className="modal-section">
+          <a 
+            href={content} 
+            target="_blank" 
+            rel="noopener noreferrer" 
+            className="link-button"
+          >
+            Link
+          </a>
+        </div>
+      );
+    }
+
     return (
       <div className="modal-section">
         <h3>{title}</h3>
@@ -55,10 +72,11 @@ export const Modal: React.FC<ModalProps> = ({ item, onClose }) => {
         <h2>{item.name}</h2>
         {renderSection("Description", item.description)}
         {renderSection("Thoughts", item.thoughts)}
+        {renderSection("Link", item.link)}
         
         {/* Render any additional fields that might exist */}
         {Object.entries(item)
-          .filter(([key]) => !['name', 'category', 'description', 'thoughts'].includes(key))
+          .filter(([key]) => !['name', 'category', 'description', 'thoughts', 'link'].includes(key))
           .map(([key, value]) => renderSection(key, value))}
       </div>
     </div>

@@ -8,7 +8,8 @@
         "For content creation",
         "Video editing, animation, digital art, composition",
         "Digital illustration workflow enhancement"
-      ]
+      ],
+      "link": "https://www.apple.com/ipad-pro/"
     },
     {
       "name": "Professional Photo Printer",
@@ -17,7 +18,8 @@
       "thoughts": [
         "Large format could be cool.",
         "It'd be cool to have something that could reliably print on cardstock, gloss, and vinyl."
-      ]
+      ],
+      "link": "https://www.usa.canon.com/shop/p/pixma-pro-200?color=Black&type=New"
     },
     {
       "name": "Recording Equipment (Mic/Interface)",
@@ -33,7 +35,8 @@
       "description": "To seal Psychopomp wares, and make more better cooler brand stuff.",
       "thoughts": [
         "With Psychopomp Publishing Logo (Mercxes)"
-      ]
+      ],
+      "link": "https://nostalgicimpressions.com/collections/your-logo-or-artwork/products/create-your-own-wax-seal-stamp?variant=44244155957526"
     },
     {
       "name": "EVA Foam and Sculpting Tools",
@@ -42,7 +45,8 @@
       "thoughts": [
         "EVA foam",
         "Barge Contact Cement for Puppet making"
-      ]
+      ],
+      "link": "https://www.amazon.com/Barge-All-Purpose-Cement-O22721/dp/B0032YYOFS/"
     },
     {
       "name": "Professional Art Supplies",
@@ -54,7 +58,8 @@
         "Ink",
         "Fineliners, inkbrush pens, nibs, et al.",
         "Goache and goache brushes"
-      ]
+      ],
+      "link" : "https://www.dickblick.com/"
     },
     {
       "name": "Art Paper and Bristol Board",
@@ -63,15 +68,26 @@
       "thoughts": [
         "High tooth for ink work",
         "Smooth for markers"
-      ]
+      ],
+      "link" : "https://www.dickblick.com/"
     },
     {
-      "name": "Miniature Painting Supplies",
+      "name": "Miniature Paints",
+      "category": "MINIATURES",
+      "description": "To paint toy Proof of Concepts",
+      "thoughts": [
+        "Airbrush/Acrylics set"
+      ],
+      "link" : "https://us.thearmypainter.com/products/speedpaint-most-wanted-set-2-3"
+    },
+    {
+      "name": "Miniature Airbrush",
       "category": "MINIATURES",
       "description": "To breathe color into tiny mechanical philosophers and their improbable steeds",
       "thoughts": [
         "Airbrush/Acrylics set"
-      ]
+      ],
+      "link" : "https://www.amazon.com/Iwata-ECL4500-Airbrush-Tank-Compressor/"
     },
     {
       "name": "Professional Workstation",
@@ -79,8 +95,10 @@
       "description": "To fill a years-long need of commensurate computational power.",
       "thoughts": [
         "For running complex AI models",
-        "And game development"
-      ]
+        "And game development",
+        "Or Subcomponents for a custom PC"
+      ],
+      "link" : "https://www.newegg.com/p/3D5-0010-00497"
     },
     {
       "name": "Resin 3D Printer & Supplies",
@@ -89,8 +107,10 @@
       "thoughts": [
         "For miniatures and small mechanical marvels",
         "Perfect for detailed prototypes",
-        "Proof of concepts for Toy Designs"
-      ]
+        "Proof of concepts for Toy Designs",
+        "Wash/Cure would be nice"
+      ],
+      "link" : "https://store.anycubic.com/products/photon-mono-m5s-pro"
     },
     {
       "name": "Power Meter Pedals",
@@ -99,7 +119,8 @@
       "thoughts": [
         "Garmin Rally RS200",
         "Favero Assioma"
-      ]
+      ],
+      "link" : "https://www.competitivecyclist.com/garmin-rally-rs-dual-sided-power-meter-pedals"
     },
     {
       "name": "Fixed Gear Bicycle",
@@ -109,8 +130,10 @@
         "Steel is real",
         "For commuting",
         "56cm"
-      ]
+      ],
+      "link" : "https://www.statebicycle.com/collections/6061-black-label-fixed-gear-single-speed-track-bikes"
     },
+   
     {
       "name": "Custom Monochrome Blue Suit",
       "category": "CLOTHING & ACCESSORIES",
@@ -119,15 +142,18 @@
         "Bespoke fit",
         "Subtle mechanical details in the lining",
         "The exact shade of blue that exists between dusk and dream"
-      ]
+      ],
+      "link" : "https://www.gentlemansguru.com/product/3-piece-royal-blue-suit/"
     },
     {
       "name": "Monochrome Blue Running Shoes",
       "category": "CLOTHING & ACCESSORIES",
       "description": "To actualize my dream to have monochrome blue shoes.",
       "thoughts": [
-        "Brooks Ghost"
-      ]
+        "Brooks Ghost",
+        "Size 12"
+      ],
+      "link" : "https://www.amazon.com/Brooks-Mens-Ghost-Neutral-Running/dp/B0CGYGFMGP/"
     },
     {
       "name": "Bicycle Tools",
@@ -136,7 +162,8 @@
       "thoughts": [
         "Truing stand",
         "BB tool?"
-      ]
+      ],
+      "link" : "https://www.parktool.com/"
     },
     {
       "name": "Smart Trainer",
@@ -144,7 +171,8 @@
       "description": "To do structured workouts... maybe... I do like riding outside.",
       "thoughts": [
         "Wahoo KICKR"
-      ]
+      ],
+      "link" : "hhttps://www.wahoofitness.com/devices/indoor-cycling/bike-trainers/kickr-move-buy"
     },
     {
       "name": "Japanese Haori Jacket",
@@ -154,7 +182,8 @@
         "Daily wear piece",
         "Something with an interesting pattern",
         "Blue... Maybe denim... Quilted..."
-      ]
+      ],
+      "link" : "https://mcraftsmanship.com/products/haori-jacket-japan-blue-kimono-style?"
     },
     {
       "name": "LEGO Sets",
@@ -164,7 +193,8 @@
         "Castle",
         "Rivendell",
         "Medieval/Viking Village Sets"
-      ]
+      ],
+      "link" : "https://www.amazon.com/LEGO-Icons-Lord-Rings-Middle-Earth/dp/B0BNWCWG7L/"
     },
     {
       "name": "Sword",
@@ -173,7 +203,8 @@
       "thoughts": [
         "Rapier",
         "For Duels."
-      ]
+      ],
+      "link" : "https://www.by-the-sword.com/p-44524-swept-hilt-rapier-by-kingston-arms.aspx?"
     },
     {
       "name": "Medieval Armor Smithing Workshop",
@@ -202,7 +233,8 @@
         "Aristophanes' The Birds",
         "Martial's Epigrams",
         "Apuleius' The Golden Ass"
-      ]
+      ],
+      "link" : "https://www.amazon.com/Cicero-Rhetorica-Herennium-Classical-Library/dp/0674994442/"
     },
     {
       "name": "Cycling Accessories",
@@ -211,7 +243,8 @@
       "thoughts": [
         "High Lumen Headlamp",
         "40c Gravel Tires... WTB Nano? Pathfinders? ByWays?"
-      ]
+      ],
+      "link" : "https://www.niterider.com/products/6782-lumina-1000-boost?"
     },
     {
       "name": "Cycling Nutrition",
@@ -220,7 +253,8 @@
       "thoughts": [
         "I like gummies...",
         "Need to eat many carbs and stoopwafels to ride long distances."
-      ]
+      ],
+      "link" : "https://thefeed.com/?"
     },
     {
       "name": "Custom Psychopomp Cycling Socks",
@@ -229,7 +263,8 @@
       "thoughts": [
         "Psychopomp Logo",
         "Black and white with Checkerboard pattern"
-      ]
+      ],
+      "link" : "https://defeet.com/pages/custom-sock-options?"
     },
     {
       "name": "Books",
@@ -239,7 +274,8 @@
         "Technical drawings = good",
         "Drawings in book = good.",
         "I like reference texts, fiction, and other such stuff."
-      ]
+      ],
+      "link" : "https://www.amazon.com/Moebius-Library-World-Edena/dp/1506702163/"
     },
     {
       "name": "Lowes Gift Card",
@@ -248,7 +284,8 @@
       "thoughts": [
         "MY HEART LONGS FOR THE WELDING TORCH",
         "Theatrical props, and sets."
-      ]
+      ],
+      "link" : "https://www.lowes.com/"
     },
     {
       "name": "Coffee Beans",
@@ -275,7 +312,8 @@
       "thoughts": [
         "Research materials for World of Morth",
         "Comparative mythology studies"
-      ]
+      ],
+      "link" : "https://www.amazon.com/s?k=joseph+campbell"
     },
     {
         "name": "Smartphone Upgrade",
@@ -284,7 +322,8 @@
         "thoughts": [
           "For better mobile photography",
           "Improved productivity on the go"
-        ]
+        ],
+        "link" : "https://www.apple.com/iphone-15/"
       },
       {
         "name": "Frame Bag for Road Bike",
@@ -293,7 +332,8 @@
         "thoughts": [
           "For longer rides",
           "Better storage solution"
-        ]
+        ],
+        "link" : "https://www.revelatedesigns.com/index.cfm/store.catalog/Frame-Bags/TangleFrameBag"
       },
       {
         "name": "Chain Cleaning Kit",
@@ -302,16 +342,8 @@
         "thoughts": [
           "For regular maintenance",
           "Extend component life"
-        ]
-      },
-      {
-        "name": "High-end Mechanical Keyboard",
-        "category": "TECH & WORKSTATION",
-        "description": "To enhance typing experience and productivity.",
-        "thoughts": [
-          "Customizable switches",
-          "Better ergonomics"
-        ]
+        ],
+        "link" : "https://www.parktool.com/en-us/product/cyclone-chain-scrubber-cm-5-3"
       },
       {
         "name": "Custom Bicycle Frame Building Course",
@@ -338,7 +370,8 @@
         "thoughts": [
           "For woodworking projects",
           "Prop building"
-        ]
+        ],
+        "link" : "https://www.lowes.com/pd/DEWALT-XR-7-1-4-In-Circular-Saw-Kit/5015148673"
       }
   ]
 }

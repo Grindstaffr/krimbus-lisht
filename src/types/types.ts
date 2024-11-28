@@ -11,8 +11,9 @@ export interface Product {
 
 export interface WishlistItem {
   name: string;
-  category?: string;
-  description?: string;
-  thoughts?: string[];
+  category: string;
+  description: string;
+  thoughts: string[];
+  link?: string;
   [key: string]: any;
 } 
