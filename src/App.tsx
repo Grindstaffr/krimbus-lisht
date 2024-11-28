@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import { WishlistItem as WishlistItemComponent } from './components/WishlistItem';
 import { Tooltip } from './components/Tooltip';
 import { Modal } from './components/Modal';

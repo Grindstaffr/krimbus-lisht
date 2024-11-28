@@ -31,7 +31,7 @@ export const Modal: React.FC<ModalProps> = ({ item, onClose }) => {
                         .filter(([key]) => !['brand', 'model'].includes(key))
                         .map(([key, value]) => (
                           <p key={key} className="additional-info">
-                            {key}: {value}
+                            {key}: {String(value)}
                           </p>
                         ))}
                     </div>
