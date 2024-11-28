@@ -1,0 +1,219 @@
+{
+  "items": [
+    {
+      "name": "Power Meter",
+      "description": "Dual-sided power meter pedals compatible with road cleats",
+      "rationale": "Will enable precise power-based training and racing, leading to improved competitive performance",
+      "products": [
+        "Garmin Rally RS200",
+        "Favero Assioma DUO",
+        "Stages Dual-Sided Power Meter"
+      ]
+    },
+    {
+      "name": "Photo Printer",
+      "description": "High-end color photo printer for professional quality prints", 
+      "rationale": "Color printer will allow publishing business to print in color, expanding product offerings",
+      "products": [
+        "Canon PIXMA PRO-200",
+        "Epson SureColor P700",
+        "Canon imagePROGRAF PRO-300"
+      ]
+    },
+    {
+      "name": "Drawing Tablet",
+      "description": "Latest iPad Pro model with M4 chip and new Apple Pencil",
+      "rationale": "Digital illustration workflow enhancement for both publishing and AI research visualization",
+      "products": [
+        "iPad Pro 11\" with Apple Pencil",
+        "Samsung Galaxy Tab S9+ with S Pen"
+      ]
+    },
+    {
+      "name": "LEGO Set",
+      "description": "Detailed 6,167 piece model of the Elven sanctuary",
+      "rationale": "This would be very fun and inspire new mechanical-fantasy world designs",
+      "products": [
+        "LEGO Icons Rivendell (10316)",
+        "LEGO Icons Lion Knights' Castle (10305)",
+        "LEGO Icons Medieval Village (10325)",
+        "LEGO Icons Viking Village (10308)"
+      ]
+    },
+    {
+      "name": "Running Shoes",
+      "description": "Latest model of the popular neutral running shoe",
+      "rationale": "Matches preferred aesthetic while updating worn footwear collection",
+      "products": [
+        "Brooks Ghost 15",
+        "Nike Pegasus 40",
+        "Hoka Clifton 9"
+      ]
+    },
+    {
+      "name": "Resin 3D Printer",
+      "description": "High-quality resin 3D printer and wash/cure station for miniature creation",
+      "rationale": "Will enable creation of high-quality prototypes for publishing venture's mechanical creatures",
+      "products": [
+        {
+          "brand": "Elegoo",
+          "model": "Saturn 3 Ultra",
+          "type": "MSLA Printer",
+          "specifications": "12K Monochrome LCD",
+          "accessories": "Mercury X Bundle (Wash & Cure Station)"
+        },
+        {
+          "brand": "Anycubic",
+          "model": "Photon M5s",
+          "type": "MSLA Printer", 
+          "specifications": "7K Monochrome LCD",
+          "accessories": "Wash & Cure Plus Machine"
+        },
+        {
+          "brand": "Phrozen",
+          "model": "Sonic Mighty 8K",
+          "type": "MSLA Printer",
+          "specifications": "8K Monochrome LCD",
+          "accessories": "Cure X Bundle"
+        }
+      ]
+    },
+    {
+      "name": "Airbrush Kit",
+      "description": "Professional-grade airbrush setup for miniature painting",
+      "rationale": "Essential for achieving professional finish on printed miniatures",
+      "products": [
+        {
+          "brand": "Badger",
+          "model": "Patriot 105",
+          "type": "Gravity Feed Airbrush",
+          "specifications": "0.5mm Needle"
+        },
+        "Iwata Eclipse HP-CS",
+        "H&S Evolution Silverline"
+      ]
+    },
+    {
+      "name": "Miniature Paint Set",
+      "description": "Comprehensive miniature paint set",
+      "rationale": "Provides full color range for miniature painting projects",
+      "products": [
+        {
+          "brand": "Army Painter",
+          "type": "Complete Paint Set",
+          "contents": "Multiple paint types including metallics, washes, and effects"
+        },
+        "Citadel Base Paint Set",
+        "Vallejo Game Color Complete Set"
+      ]
+    },
+    {
+      "name": "Fixed Gear Bicycle",
+      "description": "High-performance steel fixed-gear bicycle for experienced rider commuting",
+      "rationale": "Provides engaging, responsive ride for an experienced cyclist while being durable enough for daily use",
+      "products": [
+        {
+          "brand": "Wabi Cycles",
+          "model": "Special",
+          "type": "Steel Fixed Gear",
+          "specifications": "Reynolds 725 tubing, sub-19lb complete build"
+        },
+        {
+          "brand": "All-City",
+          "model": "Big Block",
+          "type": "Steel Fixed Gear",
+          "specifications": "612 Select chromoly, track dropouts, versatile tire clearance"
+        },
+        {
+          "brand": "Soma",
+          "model": "Rush",
+          "type": "Steel Fixed Gear",
+          "specifications": "Tange Prestige tubing, aggressive track geometry"
+        },
+        {
+          "brand": "Cinelli",
+          "model": "Tipo Pista",
+          "type": "Steel Fixed Gear",
+          "specifications": "Columbus Cromor tubing, classic track geometry"
+        }
+      ]
+    },
+    {
+      "name": "Professional Workstation",
+      "description": "High-performance workstation optimized for AI development, gaming, creative work, and software development",
+      "rationale": "Versatile system capable of handling demanding workloads including AI training, game development, 3D modeling, and professional creative applications while maintaining excellent gaming performance",
+      "products": [
+        {
+          "name": "Complete Build",
+          "subcomponents": {
+            "CPU": "AMD Threadripper 7980X",
+            "GPU": "NVIDIA RTX 4090 24GB",
+            "Motherboard": "ASUS Pro WS TRX50-SAGE WIFI",
+            "RAM": "256GB (8x32GB) Corsair Dominator Platinum DDR5-6000 CL30",
+            "Storage": [
+              "2TB Samsung 990 Pro NVMe SSD (OS/Applications)",
+              "4TB Samsung 990 Pro NVMe SSD (Active Projects/Games)",
+              "8TB Western Digital Black SN850X (AI Datasets/Asset Library)",
+              "20TB Western Digital Red Pro HDD (Archive/Backup)"
+            ],
+            "Power Supply": "Seasonic PRIME TX-1600 80+ Titanium",
+            "CPU Cooler": "Arctic Liquid Freezer II 420 (Enhanced VRM cooling)",
+            "Case": "Fractal Design Meshify 2 XL (Optimized airflow)",
+            "Case Fans": "10x Noctua NF-A14 iPPC-3000 PWM (Industrial grade)",
+            "Monitors": [
+              "Dell UP3221Q 32\" 4K HDR Professional Monitor (Color-critical work)"
+            ],
+            "Peripherals": {
+              "Keyboard": "Ducky One 3",
+              "Mouse": "Zowie EC3-C"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Smartphone Upgrade",
+      "description": "Latest flagship phone with high storage capacity and powerful compute capabilities",
+      "rationale": "Replace aging A11 with modern device offering better storage, performance, and development tools",
+      "products": [
+        "iPhone 15 Pro",
+        "Samsung Galaxy S24 Ultra"
+      ]
+    },
+    {
+      "name": "Smart Trainer for Zwift",
+      "description": "Direct-drive smart trainer for indoor cycling",
+      "rationale": "Enable structured training during bad weather and efficient training time use",
+      "products": [
+        "Wahoo KICKR V6",
+        "Tacx NEO 3M",
+        "Saris H4"
+      ]
+    },
+    {
+      "name": "Custom Monochrome Blue Suit",
+      "description": "Bespoke suit from respected tailor",
+      "rationale": "Boost confidence for professional and personal occasions while expressing unique style"
+    },
+    {
+      "name": "Fun Haori Jacket for Daily Style",
+      "description": "Japanese style jacket with a fun design",
+      "rationale": "Adds a fun and unique style to daily outfits",
+      "products": [
+        "https://kimurakami.com/collections/haori/products/montsuki-haori",
+        "https://mcraftsmanship.com/collections/jackets",
+        "https://indigouniontv.com/products/reversible-kimono-3-4-sleeve-jacket-2"
+      ]
+    },
+    {
+      "name": "Art Supplies",
+      "description": "High-end traditional art supplies for physical artwork",
+      "rationale": "Enable traditional art creation alongside digital work",
+      "products": [
+        "Posca Paint Pens",
+        "Ohuhu Marker Set",
+        "Bristol Board and other Paper."
+      ]
+    }
+  ]
+}

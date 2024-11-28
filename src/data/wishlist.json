@@ -1,0 +1,344 @@
+{
+  "items": [
+    {
+      "name": "iPad Pro 11\" with Apple Pencil",
+      "category": "PUBLISHING & CREATIVE BUSINESS",
+      "description": "To reduce friction in the creation/sharing process.",
+      "thoughts": [
+        "For content creation",
+        "Video editing, animation, digital art, composition",
+        "Digital illustration workflow enhancement"
+      ]
+    },
+    {
+      "name": "Professional Photo Printer",
+      "category": "PUBLISHING & CREATIVE BUSINESS",
+      "description": "To print color spreads, covers, and color booklets.",
+      "thoughts": [
+        "Large format could be cool.",
+        "It'd be cool to have something that could reliably print on cardstock, gloss, and vinyl."
+      ]
+    },
+    {
+      "name": "Recording Equipment (Mic/Interface)",
+      "category": "PUBLISHING & CREATIVE BUSINESS",
+      "description": "To record voice-over and content creation.",
+      "thoughts": [
+        "Mic/Interface - for V.O. and content creation"
+      ]
+    },
+    {
+      "name": "Custom Wax Seal Set",
+      "category": "PUBLISHING & CREATIVE BUSINESS",
+      "description": "To seal Psychopomp wares, and make more better cooler brand stuff.",
+      "thoughts": [
+        "With Psychopomp Publishing Logo (Mercxes)"
+      ]
+    },
+    {
+      "name": "EVA Foam and Sculpting Tools",
+      "category": "PUBLISHING & CREATIVE BUSINESS",
+      "description": "To sculpt puppets and props.",
+      "thoughts": [
+        "EVA foam",
+        "Barge Contact Cement for Puppet making"
+      ]
+    },
+    {
+      "name": "Professional Art Supplies",
+      "category": "ART & CREATIVE SUPPLIES",
+      "description": "To make illustrations and technical drawings.",
+      "thoughts": [
+        "Posca Pens",
+        "Ohuhu Markers",
+        "Ink",
+        "Fineliners, inkbrush pens, nibs, et al.",
+        "Goache and goache brushes"
+      ]
+    },
+    {
+      "name": "Art Paper and Bristol Board",
+      "category": "ART & CREATIVE SUPPLIES",
+      "description": "To make illustrations and technical drawings.",
+      "thoughts": [
+        "High tooth for ink work",
+        "Smooth for markers"
+      ]
+    },
+    {
+      "name": "Miniature Painting Supplies",
+      "category": "MINIATURES",
+      "description": "To breathe color into tiny mechanical philosophers and their improbable steeds",
+      "thoughts": [
+        "Airbrush/Acrylics set"
+      ]
+    },
+    {
+      "name": "Professional Workstation",
+      "category": "TECH & WORKSTATION",
+      "description": "To fill a years-long need of commensurate computational power.",
+      "thoughts": [
+        "For running complex AI models",
+        "And game development"
+      ]
+    },
+    {
+      "name": "Resin 3D Printer & Supplies",
+      "category": "MINIATURES",
+      "description": "To materialize morthlings into marvelous miniatures.",
+      "thoughts": [
+        "For miniatures and small mechanical marvels",
+        "Perfect for detailed prototypes",
+        "Proof of concepts for Toy Designs"
+      ]
+    },
+    {
+      "name": "Power Meter Pedals",
+      "category": "CYCLING",
+      "description": "To quantify my cycling performance for more efficient training.",
+      "thoughts": [
+        "Garmin Rally RS200",
+        "Favero Assioma"
+      ]
+    },
+    {
+      "name": "Fixed Gear Bicycle",
+      "category": "CYCLING",
+      "description": "To commute to work and back.",
+      "thoughts": [
+        "Steel is real",
+        "For commuting",
+        "56cm"
+      ]
+    },
+    {
+      "name": "Custom Monochrome Blue Suit",
+      "category": "CLOTHING & ACCESSORIES",
+      "description": "To actualize my vision of having a loud blue suit. (I can wear monochrome blue shoes too... or RED SHOES when I'm feeling feisty.)",
+      "thoughts": [
+        "Bespoke fit",
+        "Subtle mechanical details in the lining",
+        "The exact shade of blue that exists between dusk and dream"
+      ]
+    },
+    {
+      "name": "Monochrome Blue Running Shoes",
+      "category": "CLOTHING & ACCESSORIES",
+      "description": "To actualize my dream to have monochrome blue shoes.",
+      "thoughts": [
+        "Brooks Ghost"
+      ]
+    },
+    {
+      "name": "Bicycle Tools",
+      "category": "CYCLING",
+      "description": "To expand my already-decent collection of Maintenance tools.",
+      "thoughts": [
+        "Truing stand",
+        "BB tool?"
+      ]
+    },
+    {
+      "name": "Smart Trainer",
+      "category": "CYCLING",
+      "description": "To do structured workouts... maybe... I do like riding outside.",
+      "thoughts": [
+        "Wahoo KICKR"
+      ]
+    },
+    {
+      "name": "Japanese Haori Jacket",
+      "category": "CLOTHING & ACCESSORIES",
+      "description": "To have a cool jacket.",
+      "thoughts": [
+        "Daily wear piece",
+        "Something with an interesting pattern",
+        "Blue... Maybe denim... Quilted..."
+      ]
+    },
+    {
+      "name": "LEGO Sets",
+      "category": "HOBBY & LEISURE",
+      "description": "To have something relaxing and nice that could be integrated into my existing Lego collection of Wizards and Knights.",
+      "thoughts": [
+        "Castle",
+        "Rivendell",
+        "Medieval/Viking Village Sets"
+      ]
+    },
+    {
+      "name": "Sword",
+      "category": "OTHER",
+      "description": "To duel with",
+      "thoughts": [
+        "Rapier",
+        "For Duels."
+      ]
+    },
+    {
+      "name": "Medieval Armor Smithing Workshop",
+      "category": "OTHER",
+      "description": "To actualize on dreams of blacksmithing a suit of armor.",
+      "thoughts": [
+        "Hands-on experience with period techniques",
+        "Research for Morth (Psychopomp Publishing)"
+      ]
+    },
+    {
+      "name": "Makerspace Membership",
+      "category": "OTHER",
+      "description": "To gain access to tools",
+      "thoughts": [
+        "do I have time?"
+      ]
+    },
+    {
+      "name": "Classics Literature",
+      "category": "OTHER",
+      "description": "To satiate my thirst for knowledge.",
+      "thoughts": [
+        "Cicero",
+        "Seneca",
+        "Aristophanes' The Birds",
+        "Martial's Epigrams",
+        "Apuleius' The Golden Ass"
+      ]
+    },
+    {
+      "name": "Cycling Accessories",
+      "category": "CYCLING",
+      "description": "To improve my cycling and commuting experience.",
+      "thoughts": [
+        "High Lumen Headlamp",
+        "40c Gravel Tires... WTB Nano? Pathfinders? ByWays?"
+      ]
+    },
+    {
+      "name": "Cycling Nutrition",
+      "category": "CYCLING",
+      "description": "To fuel the human engine with appropriately engineered sustenance",
+      "thoughts": [
+        "I like gummies...",
+        "Need to eat many carbs and stoopwafels to ride long distances."
+      ]
+    },
+    {
+      "name": "Custom Psychopomp Cycling Socks",
+      "category": "CYCLING",
+      "description": "To have cool socks.",
+      "thoughts": [
+        "Psychopomp Logo",
+        "Black and white with Checkerboard pattern"
+      ]
+    },
+    {
+      "name": "Books",
+      "category": "HOBBY & LEISURE",
+      "description": "To have MOAR books",
+      "thoughts": [
+        "Technical drawings = good",
+        "Drawings in book = good.",
+        "I like reference texts, fiction, and other such stuff."
+      ]
+    },
+    {
+      "name": "Lowes Gift Card",
+      "category": "HOBBY & LEISURE",
+      "description": "To acquire tools and materials for my hobbies.",
+      "thoughts": [
+        "MY HEART LONGS FOR THE WELDING TORCH",
+        "Theatrical props, and sets."
+      ]
+    },
+    {
+      "name": "Coffee Beans",
+      "category": "HOBBY & LEISURE",
+      "description": "To feed my caffeine addiction.",
+      "thoughts": [
+        "I always drink coffee.",
+        "I like coffee."
+      ]
+    },
+    {
+      "name": "Artisanal Japanese Woodworking Tools",
+      "category": "OTHER",
+      "description": "This seems coool, but also I have no time, and lack the patience necessary to do artisinal woodworking, so this is probably just a thing to put on a list, and not like a thing that'll be used all the time.",
+      "thoughts": [
+        "Could be fun...",
+        "Not enough time probably"
+      ]
+    },
+    {
+      "name": "Anthropological Mythology Texts",
+      "category": "OTHER",
+      "description": "To read more, so I can be a renowned and respected mythologist in my 70s and 80s when I retire.",
+      "thoughts": [
+        "Research materials for World of Morth",
+        "Comparative mythology studies"
+      ]
+    },
+    {
+        "name": "Smartphone Upgrade",
+        "category": "TECH & WORKSTATION",
+        "description": "To update current mobile device capabilities.",
+        "thoughts": [
+          "For better mobile photography",
+          "Improved productivity on the go"
+        ]
+      },
+      {
+        "name": "Frame Bag for Road Bike",
+        "category": "CYCLING",
+        "description": "To carry essentials during rides.",
+        "thoughts": [
+          "For longer rides",
+          "Better storage solution"
+        ]
+      },
+      {
+        "name": "Chain Cleaning Kit",
+        "category": "CYCLING",
+        "description": "To maintain optimal drivetrain performance.",
+        "thoughts": [
+          "For regular maintenance",
+          "Extend component life"
+        ]
+      },
+      {
+        "name": "High-end Mechanical Keyboard",
+        "category": "TECH & WORKSTATION",
+        "description": "To enhance typing experience and productivity.",
+        "thoughts": [
+          "Customizable switches",
+          "Better ergonomics"
+        ]
+      },
+      {
+        "name": "Custom Bicycle Frame Building Course",
+        "category": "CYCLING",
+        "description": "To learn the art of bicycle frame building.",
+        "thoughts": [
+          "Hands-on experience with framebuilding",
+          "Potential future custom builds"
+        ]
+      },
+      {
+        "name": "Motorcycle License Class",
+        "category": "OTHER",
+        "description": "To obtain motorcycle certification.",
+        "thoughts": [
+          "New skill development",
+          "Alternative transportation option"
+        ]
+      },
+      {
+        "name": "Circular Saw",
+        "category": "HOBBY & LEISURE",
+        "description": "To expand workshop capabilities.",
+        "thoughts": [
+          "For woodworking projects",
+          "Prop building"
+        ]
+      }
+  ]
+}
