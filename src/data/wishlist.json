@@ -113,6 +113,17 @@
       "link" : "https://store.anycubic.com/products/photon-mono-m5s-pro"
     },
     {
+      "name": "Bambu Labs P1S with AMS",
+      "category": "MINIATURES",
+      "description": "To print miniatures and animatronics components.",
+      "thoughts": [
+        "Multicolor Core XY printer",
+        "High speed, High precision",
+        "multi-color"
+      ],
+      "link" : "https://us.store.bambulab.com/products/p1s?variant=41929890365576"
+    },
+    {
       "name": "Power Meter Pedals",
       "category": "CYCLING",
       "description": "To quantify my cycling performance for more efficient training.",
