@@ -115,8 +115,8 @@ function App() {
   return (
     <div className="app">
       <header className={`app-header ${headerVisible ? '' : 'header-hidden'}`}>
-        <h1>2025 Wishlist</h1>
-        <p className="subtitle">Things!</p>
+        <h1>2025 - Rusty's Requisitions</h1>
+        <p className="subtitle">Thank you for considering the set of things that I think could contribute to my day to da existence and wellbeing. Happy Holidays!</p>
       </header>
 
       <div className="main-layout">
