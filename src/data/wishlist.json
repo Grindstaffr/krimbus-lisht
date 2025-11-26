@@ -1,34 +1,25 @@
 {
   "items": [
     {
-      "name": "iPad Pro 11\" with Apple Pencil",
-      "category": "PUBLISHING & CREATIVE BUSINESS",
-      "description": "To reduce friction in the creation/sharing process.",
+      "name": "Park Tool Hydraulic Tools",
+      "category": "CYCLING",
+      "description": "To have a set of hydraulic tools for bicycle maintenance and repair.",
       "thoughts": [
-        "For content creation",
-        "Video editing, animation, digital art, composition",
-        "Digital illustration workflow enhancement",
-        "(or an M2 Ipad Air)"
+        "Brake Bleed kit (shimano, mineral oil)",
+        "Hydraulic Barb tool",
+        "Hoses barbs ferrules, et al."
       ],
-      "link": "https://www.apple.com/ipad-pro/"
+      "link": "https://www.parktool.com/en-us/product/hydraulic-brake-bleed-kit-mineral-bkm-1-2?category=Brakes"
     },
     {
       "name": "Professional Photo Printer",
-      "category": "PUBLISHING & CREATIVE BUSINESS",
+      "category": "TOOLS & EQUIPMENT",
       "description": "To print color spreads, covers, and color booklets.",
       "thoughts": [
         "Large format could be cool.",
         "It'd be cool to have something that could reliably print on cardstock, gloss, and vinyl."
       ],
       "link": "https://www.usa.canon.com/shop/p/pixma-pro-200?color=Black&type=New"
-    },
-    {
-      "name": "Recording Equipment (Mic/Interface)",
-      "category": "HOBBY & LEISURE",
-      "description": "To record voice-over and content creation.",
-      "thoughts": [
-        "Mic/Interface - for V.O. and content creation"
-      ]
     },
     {
       "name": "Custom Wax Seal Set",
@@ -38,16 +29,6 @@
         "With Psychopomp Publishing Logo (Mercxes)"
       ],
       "link": "https://nostalgicimpressions.com/collections/your-logo-or-artwork/products/create-your-own-wax-seal-stamp?variant=44244155957526"
-    },
-    {
-      "name": "EVA Foam and Sculpting Tools",
-      "category": "ART & CREATIVE SUPPLIES",
-      "description": "To sculpt puppets and props.",
-      "thoughts": [
-        "EVA foam",
-        "Barge Contact Cement for Puppet making"
-      ],
-      "link": "https://www.amazon.com/Barge-All-Purpose-Cement-O22721/dp/B0032YYOFS/"
     },
     {
       "name": "Professional Art Supplies",
@@ -82,18 +63,9 @@
       "link" : "https://us.thearmypainter.com/products/speedpaint-most-wanted-set-2-3"
     },
     {
-      "name": "Miniature Airbrush",
-      "category": "MINIATURES",
-      "description": "To breathe color into tiny mechanical philosophers and their improbable steeds",
-      "thoughts": [
-        "Airbrush/Acrylics set"
-      ],
-      "link" : "https://www.amazon.com/Iwata-ECL4500-Airbrush-Tank-Compressor/"
-    },
-    {
       "name": "Professional Workstation",
       "category": "TECH & WORKSTATION",
-      "description": "To fill a years-long need of commensurate computational power.",
+      "description": "Commensurate computational power.",
       "thoughts": [
         "For running complex AI models",
         "And game development",
@@ -102,61 +74,25 @@
       "link" : "https://www.newegg.com/p/3D5-0010-00497"
     },
     {
-      "name": "Resin 3D Printer & Supplies",
-      "category": "MINIATURES",
-      "description": "To materialize morthlings into marvelous miniatures.",
-      "thoughts": [
-        "For miniatures and small mechanical marvels",
-        "Perfect for detailed prototypes",
-        "Proof of concepts for Toy Designs",
-        "Wash/Cure would be nice"
-      ],
-      "link" : "https://store.anycubic.com/products/photon-mono-m5s-pro"
-    },
-    {
-      "name": "Bambu Labs P1S with AMS",
-      "category": "MINIATURES",
+      "name": "Bambu Labs P2S with AMS",
+      "category": "TOOLS & EQUIPMENT",
       "description": "To print miniatures and animatronics components.",
       "thoughts": [
         "Multicolor Core XY printer",
         "High speed, High precision",
         "multi-color"
       ],
-      "link" : "https://us.store.bambulab.com/products/p1s?variant=41929890365576"
+      "link" : "https://us.store.bambulab.com/products/p2s?from=home_web_p2s_detail"
     },
     {
-      "name": "Power Meter Pedals",
+      "name": "Smart Trainer for Indoor Cycling",
       "category": "CYCLING",
       "description": "To quantify my cycling performance for more efficient training.",
       "thoughts": [
-        "Garmin Rally RS200",
-        "Favero Assioma"
+        "Wahoo KICKR or Kickr move"
       ],
       "link" : "https://www.competitivecyclist.com/garmin-rally-rs-dual-sided-power-meter-pedals"
-    },
-    {
-      "name": "Fixed Gear Bicycle",
-      "category": "CYCLING",
-      "description": "To commute to work and back.",
-      "thoughts": [
-        "Steel is real",
-        "For commuting",
-        "56cm"
-      ],
-      "link" : "https://www.statebicycle.com/collections/6061-black-label-fixed-gear-single-speed-track-bikes"
-    },
-   
-    {
-      "name": "Cool Blue Pants",
-      "category": "CLOTHING & ACCESSORIES",
-      "description": "To have a pair of flowy blue pants for summer fashion.",
-      "thoughts": [
-        "I am become fashion, setter of trends",
-        "Gonna have some breezy blue pants and look like a wacko",
-        "Ain't no pants like aladdin pants"
-      ],
-      "link" : "https://kyotosoul.com/collections/pants"
-    },
+    },   
     {
       "name": "Monochrome Blue Running Shoes",
       "category": "CLOTHING & ACCESSORIES",
@@ -169,35 +105,13 @@
     },
     {
       "name": "Bicycle Tools",
-      "category": "CYCLING",
+      "category": "TOOLS & EQUIPMENT",
       "description": "To expand my already-decent collection of Maintenance tools.",
       "thoughts": [
         "Truing stand",
         "BB tool?"
       ],
       "link" : "https://www.parktool.com/"
-    },
-    {
-      "name": "Pink USWE Hydration Pack",
-      "category": "CYCLING",
-      "description": "To have a hydration pack for endurance races.",
-      "thoughts": [
-        "Pink",
-        "USWE",
-        "The hotness"
-      ],
-      "link" : "https://uswe.com/en-us/hydration-pack-outlander-2-race-pink"
-    },
-    {
-      "name": "Japanese Haori Jacket",
-      "category": "CLOTHING & ACCESSORIES",
-      "description": "To have a cool jacket.",
-      "thoughts": [
-        "Daily wear piece",
-        "Something with an interesting pattern",
-        "Blue... Maybe denim... Quilted..."
-      ],
-      "link" : "https://mcraftsmanship.com/products/haori-jacket-japan-blue-kimono-style?"
     },
     {
       "name": "Blue Clothes",
@@ -211,45 +125,15 @@
       "link" : "https://mcraftsmanship.com/products/haori-jacket-japan-blue-kimono-style?"
     },
     {
-      "name": "Steel Gauntlets",
-      "category": "CLOTHING & ACCESSORIES",
-      "description": "To have finger protection while strolling through the park, shopping along the boulevard, or eating at restaurants.",
-      "thoughts": [
-        "Functional Gloves for armored combat",
-        "Parade Armor. Artisan steelcraft.",
-        "Gloves for business meetings."
-      ],
-      "link" : "https://armstreet.com/store/armor/kingmaker-finger-gauntlets"
-    },
-    {
       "name": "LEGO Sets",
       "category": "HOBBY & LEISURE",
       "description": "To have something relaxing and nice that could be integrated into my existing Lego collection of Wizards and Knights.",
       "thoughts": [
+        "Shire / LOTR",
         "Castle",
-        "Rivendell",
-        "Medieval/Viking Village Sets"
+        "Pirate Ships"
       ],
-      "link" : "https://www.amazon.com/LEGO-Icons-Lord-Rings-Middle-Earth/dp/B0BNWCWG7L/"
-    },
-    {
-      "name": "Sword",
-      "category": "OTHER",
-      "description": "To duel with",
-      "thoughts": [
-        "Rapier",
-        "For Duels."
-      ],
-      "link" : "https://www.by-the-sword.com/p-44524-swept-hilt-rapier-by-kingston-arms.aspx?"
-    },
-    {
-      "name": "Medieval Armor Smithing Workshop",
-      "category": "OTHER",
-      "description": "To actualize on dreams of blacksmithing a suit of armor.",
-      "thoughts": [
-        "Hands-on experience with period techniques",
-        "Research for Morth (Psychopomp Publishing)"
-      ]
+      "link" : "https://www.lego.com/en-us/product/the-going-merry-pirate-ship-75639"
     },
     {
       "name": "Makerspace Membership",
@@ -260,9 +144,9 @@
       ]
     },
     {
-      "name": "Classics Literature",
+      "name": "Literature & Books",
       "category": "OTHER",
-      "description": "To satiate my thirst for knowledge.",
+      "description": "Books good",
       "thoughts": [
         "Cicero",
         "Seneca",
@@ -370,16 +254,6 @@
           "Better storage solution"
         ],
         "link" : "https://www.revelatedesigns.com/index.cfm/store.catalog/Frame-Bags/TangleFrameBag"
-      },
-      {
-        "name": "Chain Cleaning Kit",
-        "category": "CYCLING",
-        "description": "To maintain optimal drivetrain performance.",
-        "thoughts": [
-          "For regular maintenance",
-          "Extend component life"
-        ],
-        "link" : "https://www.parktool.com/en-us/product/cyclone-chain-scrubber-cm-5-3"
       },
       {
         "name": "Custom Bicycle Frame Building Course",

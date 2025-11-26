@@ -15,5 +15,6 @@ export interface WishlistItem {
   description: string;
   thoughts: string[];
   link?: string;
+  cost?: number; // 0-6: Free → An unfathomable cost
   [key: string]: any;
 } 

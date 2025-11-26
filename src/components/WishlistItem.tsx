@@ -21,7 +21,7 @@ export const WishlistItem = ({ item, onHover, onClick }: Props) => {
       onClick={() => onClick(item)}
     >
       <h3>{item.name}</h3>
-      <p>{item.description}</p>
+      {item.description && <p className="item-description">{item.description}</p>}
     </div>
   );
-}; 
+};

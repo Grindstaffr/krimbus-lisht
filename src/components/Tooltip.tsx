@@ -26,7 +26,6 @@ export const Tooltip: React.FC<TooltipProps> = ({ item, mousePosition, shouldRen
       )}
       {item.thoughts && item.thoughts.length > 0 && (
         <div className="thoughts">
-          <strong>Thoughts:</strong>
           <ul>
             {item.thoughts.map((thought, index) => (
               <li key={index}>{thought}</li>
